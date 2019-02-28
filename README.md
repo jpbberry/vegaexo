@@ -28,3 +28,10 @@ Exponent support is here, and we have many more plans like:
 At the moment customizing isn't very easy! But definitely planned!! If you want to customize the look of your graph you can either:
 1. Edit ./node_modules/vegaexp/base-template.json
 2. When making a `new vegaEXP` you can do `vegaEXP(EXP, {file: YOUR_OWN_FILE.json})` (Full path). More customization will come soon but for no you need to learn the way [vega customizes their visualization in JSON](https://vega.github.io/vega-lite/tutorials/getting_started.html#customize-your-visualization)
+
+# Links
+[NPM Package](https://npmjs.com/package/vegaexp)
+
+[GitHub](https://github.com/jpbberry/vegaexo)
+
+[Discord (For Support)](https://discord.gg/CRAbk4w)
